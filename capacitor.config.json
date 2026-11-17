@@ -1,0 +1,8 @@
+{
+  "appId": "com.footballcareer27.game",
+  "appName": "FOOTBALL CAREER 27",
+  "webDir": ".",
+  "server": {
+    "androidScheme": "https"
+  }
+}
